@@ -1,4 +1,4 @@
-
+new Raycast for macOS Module | duplicate-finder + automated-tasks offers the most advanced Raycast for macOS module, with duplicate-finder and automated-tasks. Ideal for macOS
 
 
 
